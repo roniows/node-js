@@ -1,0 +1,14 @@
+1. install node js
+2. make a project folder
+3. Run npm init -y for create package.json file(package.json holds all the informations of the projects and packages)
+4. install express js (express js is the framework of node js)
+5. npm install express
+6. create a file (exp:- server.js)
+7. if we use any of packages then import the package in the top of the file(exp:- const express = require("express"))
+8. if we use any of files then import the file in the top of the file with exact file path
+9. if use the package then create a instance of the package (exp:- const app = express())
+10. create a server (exp:- app.listen(7777,() => {
+                                    console.log("server is running");
+                                });
+                                )
+11. 
