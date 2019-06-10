@@ -15,3 +15,4 @@ console.log(__filename)
 const req_mod_exp_js = require('./require_module_exports');
 console.log(req_mod_exp_js.nm);
 console.log(req_mod_exp_js.add());
+console.log("hello")
