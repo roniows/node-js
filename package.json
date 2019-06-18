@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/roniows/node-js/issues"
   },
-  "homepage": "https://github.com/roniows/node-js#readme"
+  "homepage": "https://github.com/roniows/node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
